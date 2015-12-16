@@ -1,5 +1,4 @@
 use Getopt::Std;
-use utf8;
 binmode(STDOUT, ":utf8");
 binmode(STDIN, ":utf8");
 use Encode;
@@ -7,7 +6,7 @@ use Encode;
 my $usage;
 {
 $usage = <<"_USAGE_";
-_enrich.pl version 1.0
+_enrich.pl version 1.0.1
 
 This script enriches lines based on the first tab-delimited column of that line with values from a lexicon file in a new column of the output file.
 Optional arguments are currently only outputting the help message.
