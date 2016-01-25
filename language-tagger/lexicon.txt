@@ -1,769 +1,636 @@
-*ⲓⲍⲉ	Greek
-
-*ⲓⲍⲉⲓ	Greek
-
-*ⲓⲍⲓ	Greek
-
-*ⲝ	Greek
-
-*ⲟⲩⲥⲓⲁ	Greek
-
-*ⲥⲑⲁⲓ	Greek
-
-*ⲥⲓⲥ	Greek
-
-ⲁⲃⲓⲁⲑⲁⲣ	Hebrew
-
-ⲁⲃⲣⲁϩⲁⲙ	Hebrew
-
-ⲁⲅⲁⲑⲟⲛ	Greek
-
-ⲁⲅⲁⲑⲟⲥ	Greek
-
-ⲁⲅⲅⲉⲗⲟⲥ	Greek
-
-ⲁⲅⲅⲏⲛ	Greek
-
-ⲁⲅⲅⲓⲟⲛ	Greek
-
-ⲁⲅⲉⲗⲏ	Greek
-
-ⲁⲅⲟⲣⲁ	Greek
-
-ⲁⲇⲓⲕⲟⲥ	Greek
-
-ⲁⲏⲣ	Greek
-
-ⲁⲓⲥⲑⲁⲛⲉ	Greek
-
-ⲁⲓⲧⲉⲓ	Greek
-
-ⲁⲓⲧⲏⲙⲁ	Greek
-
-ⲁⲓⲱⲛ	Greek
-
-ⲁⲕⲁⲑⲁⲣⲧⲟ*	Greek
-
-ⲁⲗⲁⲥⲥⲁ	Greek
-
-ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ	Greek
-
-ⲁⲗⲗⲁ	Greek
-
-ⲁⲗⲫⲁⲓⲟⲥ	Greek
-
-ⲁⲛⲁⲅⲕⲁⲍⲉ	Greek
-
-ⲁⲛⲁⲅⲕⲏ	Greek
-
-ⲁⲛⲁⲕⲣⲓⲛⲉ	Greek
-
-ⲁⲛⲁⲭⲱⲣⲉⲓ	Greek
-
-ⲁⲛⲇⲣⲉⲁⲥ	Greek
-
-ⲁⲛⲟⲙⲓⲁ	Greek
-
-ⲁⲛⲟⲙⲟⲥ	Greek
-
-ⲁⲡⲁ	Hebrew
-
-ⲁⲡⲁⲧⲏ	Greek
-
-ⲁⲡⲓⲥⲧⲟⲥ	Greek
-
-ⲁⲡⲟⲥⲧⲟⲗⲟⲥ	Greek
-
-ⲁⲡⲟⲥⲧⲟⲥ	Greek
-
-ⲁⲡⲟⲧⲁⲥⲥⲉ	Greek
-
-ⲁⲡⲟⲫⲁⲥⲓⲥ	Greek
-
-ⲁⲣⲁ	Greek
-
-ⲁⲣⲉⲥⲕⲉ	Greek
-
-ⲁⲣⲛⲁ	Greek
-
-ⲁⲣⲭⲉⲓ	Greek
-
-ⲁⲣⲭⲉⲥⲑⲁⲓ	Greek
-
-ⲁⲣⲭⲏⲗⲏⲥⲧⲏⲥ	Greek
-
-ⲁⲣⲭⲓ*	Greek
-
-ⲁⲣⲭⲓⲉⲣⲉⲩⲥ	Greek
-
-ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	Greek
-
-ⲁⲣⲭⲓⲧⲗⲕ	Greek
-
-ⲁⲣⲭⲱⲛ	Greek
-
-ⲁⲥⲕⲏⲥⲓⲥ	Greek
-
-ⲁⲩⲝⲁⲛⲉ	Greek
-
-ⲁⲫⲑⲟⲛⲓⲁ	Greek
-
-ⲃⲁⲗⲗⲁ	Hebrew
-
-ⲃⲁⲡⲧⲓⲍⲉ	Greek
-
-ⲃⲁⲡⲧⲓⲥⲙⲁ	Greek
-
-ⲃⲁⲡⲧⲓⲥⲧⲏⲥ	Greek
-
-ⲃⲁⲣⲃⲁⲣⲟⲥ	Greek
-
-ⲃⲁⲣⲑⲟⲗⲟⲙⲁⲓⲟⲥ	Aramaic
-
-ⲃⲁⲣⲟⲥ	Greek
-
-ⲃⲁⲥⲁⲛⲓⲍⲉ	Greek
-
-ⲃⲁⲥⲕⲁⲛⲟⲥ	Greek
-
-ⲃⲁⲩⲕⲁⲗⲓⲟⲛ	Greek
-
-ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ	Hebrew
-
-ⲃⲉⲛⲓⲁⲙⲓⲛ	Hebrew
-
-ⲃⲏⲇⲥⲁⲓⲇⲁⲛ
-
-ⲃⲏⲑⲥⲁⲓⲇⲁ	Aramaic
-
-ⲃⲟⲁⲛⲏⲣⲅⲉⲥ	Greek
-
-ⲃⲟⲏⲑⲉⲓⲁ	Greek
-
-ⲃⲟⲏⲑⲟⲥ	Greek
-
-ⲅⲁⲓⲟⲥ	Greek
-
-ⲅⲁⲗⲓⲗⲁⲓⲁ	Hebrew
-
-ⲅⲁⲣ	Greek
-
-ⲅⲉⲛⲉⲁ	Greek
-
-ⲅⲉⲛⲛⲏⲥⲁⲣⲉⲧ	Hebrew
-
-ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	Greek
-
-ⲅⲉϩⲉⲛⲛⲁ	Hebrew
-
-ⲅⲛⲱⲙⲏ	Greek
-
-ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ	Greek
-
-ⲅⲣⲁⲫⲏ	Greek
-
-ⲇⲁⲓⲙⲱⲛⲓⲟⲛ	Greek
-
-ⲇⲁⲗⲙⲁⲛⲟⲩⲑⲁ
-
-ⲇⲁⲩⲉⲓⲇ	Hebrew
-
-ⲇⲉ	Greek
-
-ⲇⲉⲕⲁⲡⲟⲗⲓⲥ	Greek
-
-ⲇⲓⲁⲃⲟⲗⲟⲥ	Greek
-
-ⲇⲓⲁⲕⲟⲛⲉⲓ	Greek
-
-ⲇⲓⲁⲕⲟⲛⲓ	Greek
-
-ⲇⲓⲁⲕⲟⲛⲓⲁ	Greek
-
-ⲇⲓⲕⲁⲓⲟ*	Greek
-
-ⲇⲓⲡⲛⲟⲛ	Greek
-
-ⲇⲓⲱⲅⲙⲟⲥ	Greek
-
-ⲇⲟⲩⲙⲁⲓⲁ	Hebrew
-
-ⲇⲩⲛⲁⲧⲟⲥ	Greek
-
-ⲉⲅⲕⲣⲁⲧⲉⲩⲉ	Greek
-
-ⲉⲓⲇⲟⲥ	Greek
-
-ⲉⲓⲇⲱⲗⲟⲛ	Greek
-
-ⲉⲓⲙⲏⲧⲓ	Greek
-
-ⲉⲓⲣⲏⲛⲏ	Greek
-
-ⲉⲓⲧⲉ	Greek
-
-ⲉⲕⲕⲗⲏⲥⲓⲁ	Greek
-
-ⲉⲗⲁⲭⲓⲥⲧⲟⲛ	Greek
-
-ⲉⲛⲇⲁⲓⲙⲱⲛⲓⲟⲛ	Greek
-
-ⲉⲛⲉⲣⲅⲉⲓ	Greek
-
-ⲉⲛⲛⲟⲙⲟⲥ	Greek
-
-ⲉⲛⲧⲟⲗⲏ	Greek
-
-ⲉⲛⲱⲭⲗⲉⲓ	Greek
-
-ⲉⲝ*	Greek
-
-ⲉⲝⲁⲡⲁⲧⲁ	Greek
-
-ⲉⲝⲉⲥⲧⲓ	Greek
-
-ⲉⲝⲟⲙⲟⲗⲟⲅⲉⲓ	Greek
-
-ⲉⲝⲟⲩⲥⲓⲁ	Greek
-
-ⲉⲡⲉⲓⲇⲏ	Greek
-
-ⲉⲡⲓⲑⲩⲙⲉⲓ	Greek
-
-ⲉⲡⲓⲑⲩⲙⲓⲁ	Greek
-
-ⲉⲡⲓⲕⲁⲗⲉⲓ	Greek
-
-ⲉⲡⲓⲥⲧⲏⲙⲏ	Greek
-
-ⲉⲡⲓⲥⲧⲟⲗⲏ	Greek
-
-ⲉⲡⲓⲧⲓⲙⲁ	Greek
-
-ⲉⲣⲏⲙⲟⲥ	Greek
-
-ⲉⲥⲑⲁⲛⲉ	Greek
-
-ⲉⲧⲓ	Greek
-
-ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ	Greek
-
-ⲉⲩⲁⲛⲅⲅⲉⲗ*	Greek
-
-ⲉⲩⲅⲉⲛⲏⲥ	Greek
-
-ⲉⲩϩⲁ	Hebrew
-
-ⲉⲫⲣⲉⲙ	Hebrew
-
-ⲍⲉⲃⲉⲇⲁⲓⲟⲥ	Hebrew
-
-ⲍⲉⲗⲫⲁ	Hebrew
-
-ⲏ	Greek
-
-ⲏⲇⲏ	Greek
-
-ⲏⲥⲁⲓⲁⲥ	Hebrew
-
-ⲏⲥⲁⲩ	Hebrew
-
-ⲑⲁⲇⲇⲁⲓⲟⲥ	Aramaic
-
-ⲑⲁⲗⲁⲥⲥⲁ	Greek
-
-ⲑⲉⲟⲇⲱⲣⲟⲥ	Greek
-
-ⲑⲉⲣⲁⲡⲟⲩ	Greek
-
-ⲑⲏⲣⲓⲟⲛ	Greek
-
-ⲑⲗⲓⲃⲉ	Greek
-
-ⲑⲗⲓⲯⲓⲥ	Greek
-
-ⲑⲩⲥⲓⲁ*	Greek
-
-ⲑⲱⲙⲁⲥ	Aramaic
-
-ⲓⲁⲕⲱⲃ*	Hebrew
-
-ⲓⲏⲥⲟⲩⲥ	Hebrew
-
-ⲓⲟⲣⲇⲁⲛⲏⲥ	Hebrew
-
-ⲓⲟⲩⲇⲁ*	Hebrew
-
-ⲓⲟⲩⲇⲁⲓⲁ	Hebrew
-
-ⲓⲟⲩⲇⲁⲥ	Hebrew
-
-ⲓⲥⲁⲁⲕ	Hebrew
-
-ⲓⲥⲕⲁⲣⲓⲱⲧⲏⲥ	Hebrew
-
-ⲓⲥⲙⲁⲏⲗ	Hebrew
-
-ⲓⲥⲣⲁⲏⲗ	Hebrew
-
-ⲓⲱⲥⲏⲫ	Hebrew
-
-ⲓⲱϩⲁⲛⲛⲏⲥ	Hebrew
-
-ⲕⲁⲕⲱⲥ	Greek
-
-ⲕⲁⲗⲱⲥ	Greek
-
-ⲕⲁⲛⲁⲛⲁⲓⲟⲥ	Aramaic
-
-ⲕⲁⲣⲡⲟⲥ	Greek
-
-ⲕⲁⲧⲁ	Greek
-
-ⲕⲁⲧⲁⲣⲅⲉⲓ	Greek
-
-ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ	Greek
-
-ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ	Hebrew
-
-ⲕⲉⲥⲁⲣⲓⲁ	Latin
-
-ⲕⲏⲣⲩⲥⲥⲉ	Greek
-
-ⲕⲏⲫⲁ	Greek
-
-ⲕⲗⲁⲇⲟⲥ	Greek
-
-ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	Greek
-
-ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	Greek
-
-ⲕⲟⲓⲛⲱⲛⲓⲁ	Greek
-
-ⲕⲟⲓⲛⲱⲛⲟⲥ	Greek
-
-ⲕⲟⲗⲗⲏⲅⲓⲟⲛ	Latin
-
-ⲕⲟⲗⲗⲩⲕⲓⲟⲛ	Latin
-
-ⲕⲟⲗⲗⲩϭⲉ	Latin
-
-ⲕⲟⲙⲉⲥ	Latin
-
-ⲕⲟⲣⲃⲁⲛ	Hebrew
-
-ⲕⲟⲣⲓⲛⲑⲟⲥ	Greek
-
-ⲕⲟⲥⲙⲟⲥ	Greek
-
-ⲕⲟⲩⲙ	Aramaic
-
-ⲕⲣⲓⲛⲉ	Greek
-
-ⲕⲣⲓⲥⲡⲟⲥ	Greek
-
-ⲕⲣⲟⲛⲟⲥ	Greek
-
-ⲕⲱⲗⲩⲉ	Greek
-
-ⲕⲱⲙⲏ	Greek
-
-ⲗⲁⲟⲥ	Greek
-
-ⲗⲉⲅⲉⲱⲛ	Greek
-
-ⲗⲏⲥⲧⲏⲥ	Greek
-
-ⲗⲓⲁ	Hebrew
-
-ⲗⲓⲧⲟⲩⲣⲅⲓⲁ	Greek
-
-ⲗⲩⲡⲉⲓ	Greek
-
-ⲗⲩⲡⲏ	Greek
-
-ⲗⲩⲥⲧⲏⲥ	Greek
-
-ⲗⲩⲭⲛⲓⲁ	Greek
-
-ⲙⲁⲑⲁⲓⲟⲥ	Hebrew
-
-ⲙⲁⲑⲏⲧⲏⲥ	Greek
-
-ⲙⲁⲕⲁⲣⲓⲁ	Greek
-
-ⲙⲁⲕⲁⲣⲓⲍⲉ	Greek
-
-ⲙⲁⲕⲁⲣⲓⲟⲥ	Greek
-
-ⲙⲁⲕⲉⲗⲗⲟⲥ	Greek
-
-ⲙⲁⲗⲓⲥⲧⲁ	Greek
-
-ⲙⲁⲣⲓⲁ	Hebrew
-
-ⲙⲁⲥⲧⲓⲅⲝ	Greek
-
-ⲙⲁⲥⲧⲓⲅⲟⲩ	Greek
-
-ⲙⲉⲅⲓⲥⲧⲁⲛⲟⲥ	Greek
-
-ⲙⲉⲗⲉⲧⲁ	Greek
-
-ⲙⲉⲛ	Greek
-
-ⲙⲉⲣⲟⲥ	Greek
-
-ⲙⲉⲥⲟⲩⲁⲫⲓ	Greek
-
-ⲙⲉⲧⲁⲛⲟⲉⲓ	Greek
-
-ⲙⲉⲧⲁⲛⲟⲓⲁ	Greek
-
-ⲙⲉⲧⲉⲭⲉ	Greek
-
-ⲙⲏ	Greek
-
-ⲙⲏⲡⲟⲧⲉ	Greek
-
-ⲙⲏⲡⲱⲥ	Greek
-
-ⲙⲏⲧⲓ	Greek
-
-ⲙⲛⲧⲁⲅⲁⲑⲟⲥ	Greek
-
-ⲙⲛⲧⲣⲉϥϩⲉⲧⲃⲯⲩⲭⲏ	Greek
-
-ⲙⲛⲧⲧⲉⲗⲓⲟⲥ	Greek
-
-ⲙⲛⲧϩⲁⲡⲗⲟⲩⲥ	Greek
-
-ⲙⲟⲛⲁⲭⲟⲥ	Greek
-
-ⲙⲟⲛⲟⲛ	Greek
-
-ⲙⲩⲥⲧⲏⲣⲓⲟⲛ	Greek
-
-ⲙⲱⲛⲟⲛ	Greek
-
-ⲙⲱⲩⲥⲏⲥ	Hebrew
-
-ⲛⲁⲍⲁⲣⲁⲓⲟⲥ	Greek
-
-ⲛⲁⲍⲁⲣⲉⲑ	Hebrew
-
-ⲛⲁⲍⲱⲣⲁⲓⲟⲥ	Hebrew
-
-ⲛⲇⲉ	Greek
-
-ⲛⲏⲥⲧⲉⲩⲉ	Greek
-
-ⲛⲏⲥⲧⲓⲁ	Greek
-
-ⲛⲟⲉⲓ	Greek
-
-ⲛⲟⲙⲟⲥ	Greek
-
-ⲛⲩⲕⲧⲉⲣⲓⲥ	Greek
-
-ⲝⲉⲥⲧⲏⲥ	Greek
-
-ⲟⲓⲕⲟⲛⲟⲙⲓⲁ	Greek
-
-ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	Greek
-
-ⲟⲣⲅⲏ	Greek
-
-ⲟⲣⲫⲁⲛⲟⲥ	Greek
-
-ⲟⲩⲇⲉ	Greek
-
-ⲟⲩⲕ	Greek
-
-ⲟⲩⲧⲉ	Greek
-
-ⲟⲯⲱⲛⲓⲟⲛ	Greek
-
-ⲡⲁⲑⲟⲥ	Greek
-
-ⲡⲁⲓⲇⲉⲥ	Greek
-
-ⲡⲁⲗⲓⲛ	Greek
-
-ⲡⲁⲛⲟⲩⲣⲅⲓⲁ	Greek
-
-ⲡⲁⲛⲧⲱⲥ	Greek
-
-ⲡⲁⲣⲁ*	Greek
-
-ⲡⲁⲣⲁⲃⲁ	Greek
-
-ⲡⲁⲣⲁⲃⲁⲥⲓⲥ	Greek
-
-ⲡⲁⲣⲁⲃⲟⲗⲏ	Greek
-
-ⲡⲁⲣⲁⲅⲉ	Greek
-
-ⲡⲁⲣⲁⲇⲉⲓⲥⲟⲥ	Greek
-
-ⲡⲁⲣⲁⲇⲓⲇⲟⲩ	Greek
-
-ⲡⲁⲣⲁⲇⲓⲥⲟⲥ	Greek
-
-ⲡⲁⲣⲁⲕⲁⲗⲉⲓ	Greek
-
-ⲡⲁⲣⲁⲧⲏⲣⲉⲓ	Greek
-
-ⲡⲁⲣⲑⲉⲛⲟⲥ	Greek
-
-ⲡⲁⲣⲣⲏⲥⲓⲁ	Greek
-
-ⲡⲁⲩⲗⲟⲥ	Greek
-
-ⲡⲉⲓⲑⲉ	Greek
-
-ⲡⲉⲓⲣⲁⲍⲉ	Greek
-
-ⲡⲉⲓⲣⲁⲥⲙⲟⲥ	Greek
-
-ⲡⲉⲧⲣⲁ	Greek
-
-ⲡⲉⲧⲣⲟⲥ	Greek
-
-ⲡⲏⲅⲏ	Greek
-
-ⲡⲏⲣⲁ	Greek
-
-ⲡⲓⲗⲁⲧⲟⲥ	Greek
-
-ⲡⲓⲛⲁⲝ	Greek
-
-ⲡⲓⲥⲧⲉⲩⲉ	Greek
-
-ⲡⲓⲥⲧⲓⲥ	Greek
-
-ⲡⲓⲥⲧⲟⲥ	Greek
-
-ⲡⲗⲏⲅⲏ	Greek
-
-ⲡⲗⲏⲛ	Greek
-
-ⲡⲛⲉⲩⲙⲁ	Greek
-
-ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲏ	Greek
-
-ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ	Greek
-
-ⲡⲟⲗⲓⲥ	Greek
-
-ⲡⲟⲛⲏⲣⲓⲁ	Greek
-
-ⲡⲟⲛⲏⲣⲟⲛ	Greek
-
-ⲡⲟⲛⲏⲣⲟⲥ	Greek
-
-ⲡⲟⲣⲛⲉⲓⲁ	Greek
-
-ⲡⲟⲣⲛⲉⲩⲉ	Greek
-
-ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	Greek
-
-ⲡⲣⲟⲑⲉⲥⲓⲥ	Greek
-
-ⲡⲣⲟⲥ	Greek
-
-ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲉⲓ	Greek
-
-ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲓⲁ	Greek
-
-ⲡⲣⲟⲫⲏⲧⲉⲩⲉ	Greek
-
-ⲡⲣⲟⲫⲏⲧⲏⲥ	Greek
-
-ⲡⲩⲕⲧⲉⲩⲉ	Greek
-
-ⲣⲭⲣⲉⲓⲁ	Greek
-
-ⲥⲁⲃⲃⲁⲧⲟⲛ	Hebrew
-
-ⲥⲁⲛⲇⲁⲗⲓⲟⲛ	Greek
-
-ⲥⲁⲣⲕⲓⲕⲟⲛ	Greek
-
-ⲥⲁⲣⲝ	Greek
-
-ⲥⲁⲣⲣⲁ	Hebrew
-
-ⲥⲁⲧⲁⲛⲁⲥ	Hebrew
-
-ⲥⲓⲇⲱⲛ	Greek
-
-ⲥⲓⲙⲱⲛ	Hebrew
-
-ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	Greek
-
-ⲥⲕⲁⲛⲇⲁⲗⲟⲛ	Greek
-
-ⲥⲕⲉⲡⲁⲥⲧⲏⲥ	Greek
-
-ⲥⲟⲫⲓⲁ	Greek
-
-ⲥⲟⲫⲟⲥ	Greek
-
-ⲥⲡⲉⲕⲟⲩⲗⲁⲧⲱⲣ	Greek
-
-ⲥⲧⲁⲇⲓⲟⲛ	Greek
-
-ⲥⲧⲁⲩⲣⲟⲥ	Greek
-
-ⲥⲧⲁⲩⲣⲟⲩ	Greek
-
-ⲥⲧⲉⲣⲉⲱⲙⲁ	Greek
-
-ⲥⲧⲉⲫⲁⲛⲁ	Greek
-
-ⲥⲩⲅⲅⲉⲛⲏⲥ	Greek
-
-ⲥⲩⲛⲁⲅⲱⲅⲏ	Greek
-
-ⲥⲩⲛⲍⲏⲧⲏⲧⲏⲥ	Greek
-
-ⲥⲩⲛⲕⲗⲏⲧⲓⲕⲏ	Greek
-
-ⲥⲩⲣⲓⲁ	Greek
-
-ⲥⲫⲣⲁⲅⲓⲥ	Greek
-
-ⲥⲭⲏⲙⲁ	Greek
-
-ⲥⲱⲙⲁ	Greek
-
-ⲥⲱⲥⲑⲉⲛⲏⲥ	Greek
-
-ⲧⲁⲗⲉⲓⲑⲁ	Aramaic
-
-ⲧⲉⲗⲱⲛⲏⲥ	Greek
-
-ⲧⲉⲗⲱⲛⲓⲟⲛ	Greek
-
-ⲧⲉⲭⲛⲉ	Greek
-
-ⲧⲓⲙⲁⲓⲟⲥ	Greek
-
-ⲧⲓⲙⲱⲣⲓⲁ	Greek
-
-ⲧⲟⲧⲉ	Greek
-
-ⲧⲣⲁⲡⲉⲍⲁ	Greek
-
-ⲧⲩⲡⲟⲥ	Greek
-
-ⲧⲩⲣⲟⲥ	Greek
-
-ⲫⲁⲛⲧⲁⲥⲙⲁ	Greek
-
-ⲫⲁⲣⲁⲱ	Egyptian
-
-ⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ	Greek
-
-ⲫⲑⲟⲛⲉⲓ	Greek
-
-ⲫⲓⲗⲓⲡⲡⲟⲥ	Greek
-
-ⲫⲟⲓⲛⲓⲕⲏ	Greek
-
-ⲫⲟⲣⲉⲓ	Greek
-
-ⲭⲁⲗⲁ	Greek
-
-ⲭⲁⲗⲕⲓⲛ	Greek
-
-ⲭⲁⲣⲓⲍⲉ	Greek
-
-ⲭⲁⲣⲓⲥ	Greek
-
-ⲭⲁⲣⲧⲏⲥ	Greek
-
-ⲭⲏⲣⲁ	Greek
-
-ⲭⲓⲗⲓⲁⲣⲭⲟⲥ	Greek
-
-ⲭⲟⲣⲧⲟⲥ	Greek
-
-ⲭⲣⲉⲓⲁ	Greek
-
-ⲭⲣⲏⲙⲁ	Greek
-
-ⲭⲣⲓⲥⲧⲟⲥ	Greek
-
-ⲭⲣⲱ	Greek
-
-ⲭⲱⲣⲁ	Greek
-
-ⲭⲱⲣⲓⲥ	Greek
-
-ⲯⲩⲭⲏ	Greek
-
-ⲱ	Greek
-
-ⲱⲭⲗⲉⲓ	Greek
-
 ϩⲁⲅⲓⲟⲥ	Greek
-
+ϩⲁⲗⲁⲥⲥⲁ	Greek
+ϩⲁⲗⲉⲥⲓⲥ	Greek
 ϩⲁⲗⲩⲥⲓⲥ	Greek
-
 ϩⲁⲙⲏⲛ	Hebrew
-
+ϩⲁⲣⲙⲉⲛⲓⲟⲥ	Greek
+ϩⲁⲣⲡⲁⲍⲉ	Greek
 ϩⲉⲑⲛⲓⲕⲟⲥ	Greek
-
 ϩⲉⲑⲛⲟⲥ	Greek
-
 ϩⲉⲗⲗⲏⲛ	Greek
-
 ϩⲉⲗⲡⲓⲥ	Greek
-
+ϩⲉⲣⲙⲉⲧⲁⲣⲓⲟⲛ	Greek
+ϩⲉⲣⲙⲉⲧⲁ	Greek
 ϩⲉⲣⲙⲏⲥ	Greek
-
+ϩⲏⲅⲉⲙⲱⲛ	Greek
 ϩⲏⲗⲉⲓⲁⲥ	Hebrew
-
 ϩⲏⲣⲱⲇⲏⲥ	Greek
-
 ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ	Greek
-
 ϩⲏⲣⲱⲇⲓⲁⲥ	Greek
-
+ϩⲓⲉⲣⲁⲕⲓⲟⲛ	Greek
 ϩⲓⲉⲣⲉⲩⲥ	Greek
-
 ϩⲓⲉⲣⲓⲭⲱ	Hebrew
-
 ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	Hebrew
-
 ϩⲓⲕⲁⲛⲟⲥ	Greek
-
 ϩⲟⲙⲟⲗⲟⲅⲉⲓ	Greek
-
+ϩⲟⲙⲟⲟⲩⲥⲓⲟⲛ	Greek
+ϩⲟⲡⲗⲟⲛ	Greek
+ϩⲟⲣⲓⲟⲛ	Greek
+ϩⲟⲥⲓⲟⲥ	Greek
 ϩⲟⲧⲁⲛ	Greek
-
 ϩⲣⲁⲃⲃⲉⲓ	Hebrew
-
 ϩⲣⲁⲃⲃⲟⲩⲛⲉⲓ	Hebrew
-
 ϩⲣⲁⲭⲏⲗ	Hebrew
-
 ϩⲣⲉⲃⲉⲕⲕⲁ	Hebrew
-
+ϩⲣⲏⲧⲱⲣ	Greek
+ϩⲣⲟⲙⲁⲛⲟⲥ	Greek
+ϩⲣⲱⲙⲁⲓⲟⲥ	Greek
+ϩⲣⲱⲙⲁⲛⲟⲥ	Greek
+ϩⲣⲱⲙⲏ	Greek
+ϩⲩⲙⲛⲉⲩⲉ	Greek
 ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ	Greek
-
+ϩⲩⲡⲉⲣⲉⲥⲓⲁ	Greek
+ϩⲩⲡⲟⲕⲉⲓⲥⲑⲉ	Greek
 ϩⲩⲡⲟⲕⲣⲓⲥⲓⲥ	Greek
-
 ϩⲩⲡⲟⲕⲣⲓⲧⲏⲥ	Greek
-
+ϩⲩⲡⲟⲙⲉⲓⲛⲉ	Greek
 ϩⲩⲡⲟⲙⲓⲛⲉ	Greek
-
+ϩⲩⲡⲟⲙⲛⲏⲙⲁ	Greek
 ϩⲩⲡⲟⲧⲁⲅⲏ	Greek
-
 ϩⲩⲡⲟⲧⲁⲥⲥⲉ	Greek
-
-ϩⲱⲥ	Greek
-
+ϩⲱⲗⲱⲥ	Greek
 ϩⲱⲥⲧⲉ	Greek
+ϩⲱⲥ	Greek
+ϯⲙⲱⲣⲓⲁ	Greek
+ⲁⲁⲃⲉⲗ	Hebrew
+ⲁⲁⲡⲁ	Hebrew
+ⲁⲃⲓⲁⲑⲁⲣ	Hebrew
+ⲁⲃⲣⲁϩⲁⲙ	Hebrew
+ⲁⲅⲁⲑⲟⲛ	Greek
+ⲁⲅⲁⲑⲟⲥ	Greek
+ⲁⲅⲁⲛⲱⲥ	Greek
+ⲁⲅⲅⲉⲗⲟⲥ	Greek
+ⲁⲅⲅⲏⲛ	Greek
+ⲁⲅⲅⲓⲟⲛ	Greek
+ⲁⲅⲉⲗⲏ	Greek
+ⲁⲅⲓⲁⲥ	Greek
+ⲁⲅⲕⲁⲍⲉ	Greek
+ⲁⲅⲕⲁⲓⲟⲛ	Greek
+ⲁⲅⲟⲣⲁ	Greek
+ⲁⲅⲱⲛ	Greek
+ⲁⲅⲱⲣⲁ	Greek
+ⲁⲇⲓⲕⲟⲥ	Greek
+ⲁⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	Greek
+ⲁⲇⲱⲛⲉⲓ	Greek
+ⲁⲍⲁⲣⲓⲁ	Hebrew
+ⲁⲏⲣ	Greek
+ⲁⲓⲥⲑⲁⲛⲉ	Greek
+ⲁⲓⲧⲉⲓ	Greek
+ⲁⲓⲧⲏⲙⲁ	Greek
+ⲁⲓⲱⲛ	Greek
+ⲁⲕϩⲩⲃⲣⲓⲍⲉ	Greek
+ⲁⲕⲁⲑⲁⲣⲧⲟ*	Greek
+ⲁⲗⲁⲥⲥⲁ	Greek
+ⲁⲗⲉⲝⲁⲛⲇⲣⲉⲩⲥ	Greek
+ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ	Greek
+ⲁⲗⲗⲁ	Greek
+ⲁⲗⲫⲁⲓⲟⲥ	Greek
+ⲁⲙⲉⲗⲉⲓ	Greek
+ⲁⲙⲏⲛ	Hebrew
+ⲁⲛϩⲟⲥⲓⲟⲥ	Greek
+ⲁⲛϯⲛⲱⲟⲩ	Greek
+ⲁⲛϯⲟⲭⲉⲓⲁ	Greek
+ⲁⲛⲁⲅⲕⲁⲍⲉ	Greek
+ⲁⲛⲁⲅⲕⲁⲓⲟⲛ	Greek
+ⲁⲛⲁⲅⲕⲏ	Greek
+ⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ	Greek
+ⲁⲛⲁⲕⲣⲓⲛⲉ	Greek
+ⲁⲛⲁⲫⲟⲣⲁ	Greek
+ⲁⲛⲁⲭⲱⲣⲉⲓ	Greek
+ⲁⲛⲇⲣⲉⲁⲥ	Greek
+ⲁⲛⲉⲭⲉ	Greek
+ⲁⲛⲟⲙⲓⲁ	Greek
+ⲁⲛⲟⲙⲟⲥ	Greek
+ⲁⲝⲓⲱⲙⲁ	Greek
+ⲁⲡⲁⲓⲇⲉⲩⲧⲟⲥ	Greek
+ⲁⲡⲁⲧⲏ	Greek
+ⲁⲡⲁ	Hebrew
+ⲁⲡⲉⲇⲉⲩⲧⲟⲥ	 Greek
+ⲁⲡⲓⲥⲧⲟⲥ	Greek
+ⲁⲡⲟⲗⲁⲩⲉ	Greek
+ⲁⲡⲟⲗⲗⲟⲛ	Greek
+ⲁⲡⲟⲗⲗⲱⲛ	Greek
+ⲁⲡⲟⲗⲟⲅⲓⲍⲉ	Greek
+ⲁⲡⲟⲥⲧⲟⲗⲟⲥ	Greek
+ⲁⲡⲟⲥⲧⲟⲥ	Greek
+ⲁⲡⲟⲧⲁⲥⲥⲉ	Greek
+ⲁⲡⲟⲫⲁⲥⲓⲥ	Greek
+ⲁⲣⲁ	Greek
+ⲁⲣⲉⲥⲕⲉ	Greek
+ⲁⲣⲓⲥⲧⲁ	Greek
+ⲁⲣⲓⲥⲧⲟⲛ	Greek
+ⲁⲣⲛⲁ	Greek
+ⲁⲣⲧⲉⲙⲓⲥ	Greek
+ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ	Greek
+ⲁⲣⲭⲉⲓ	Greek
+ⲁⲣⲭⲉⲥⲑⲁⲓ	Greek
+ⲁⲣⲭⲏⲗⲏⲥⲧⲏⲥ	Greek
+ⲁⲣⲭⲏⲥ	Greek
+ⲁⲣⲭⲏⲧⲉⲕⲧⲱⲛ	Greek
+ⲁⲣⲭⲏ	Greek
+ⲁⲣⲭⲓⲉⲣⲉⲩⲥ	Greek
+ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	Greek
+ⲁⲣⲭⲓⲧⲗⲕ	Greek
+ⲁⲣⲭⲓ*	Greek
+ⲁⲣⲭⲱⲛ	Greek
+ⲁⲥⲉⲃⲏⲥ	Greek
+ⲁⲥⲕⲏⲥⲓⲥ	Greek
+ⲁⲥⲡⲁⲍⲉ	Greek
+ⲁⲥⲧⲉⲣⲓⲟⲥ	Greek
+ⲁⲥⲭⲏⲙⲟⲛⲉⲓ	Greek
+ⲁⲩⲝⲁⲛⲉ	Greek
+ⲁⲫⲑⲟⲛⲓⲁ	Greek
+ⲁⲫⲟⲣⲙⲏ	Greek
+ⲃⲁⲍⲁⲛⲓⲍⲉ	Greek
+ⲃⲁⲗⲗⲁ	Hebrew
+ⲃⲁⲡⲧⲓⲍⲉ	Greek
+ⲃⲁⲡⲧⲓⲥⲙⲁ	Greek
+ⲃⲁⲡⲧⲓⲥⲧⲏⲥ	Greek
+ⲃⲁⲡⲧⲓⲥⲧⲟⲩ	Greek
+ⲃⲁⲣⲃⲁⲣⲟⲥ	Greek
+ⲃⲁⲣⲑⲟⲗⲟⲙⲁⲓⲟⲥ	Aramaic
+ⲃⲁⲣⲟⲥ	Greek
+ⲃⲁⲥⲁⲛⲓⲍⲉ	Greek
+ⲃⲁⲥⲁⲛⲟⲥ	Greek
+ⲃⲁⲥⲓⲗⲉⲓⲧⲏⲥ	Greek
+ⲃⲁⲥⲓⲗⲏⲧⲏⲥ	Greek
+ⲃⲁⲥⲕⲁⲛⲟⲥ	Greek
+ⲃⲁⲩⲕⲁⲗⲓⲟⲛ	Greek
+ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ	Hebrew
+ⲃⲉⲛⲓⲁⲙⲓⲛ	Hebrew
+ⲃⲏⲇⲥⲁⲓⲇⲁⲛ
+ⲃⲏⲑⲥⲁⲓⲇⲁ	Aramaic
+ⲃⲏⲙⲁ	Greek
+ⲃⲓⲕⲧⲱⲣ	Latin
+ⲃⲗⲁⲡⲧⲉⲓ	Greek
+ⲃⲟⲁⲛⲏⲣⲅⲉⲥ	Greek
+ⲃⲟⲏⲑⲉⲓⲁ	Greek
+ⲃⲟⲏⲑⲉⲓ	Greek
+ⲃⲟⲏⲑⲟⲥ	Greek
+ⲃⲟⲏⲑⲱⲥ	Greek
+ⲃⲟⲙⲱⲥ	Greek
+ⲅⲁⲓⲟⲥ	Greek
+ⲅⲁⲗⲓⲗⲁⲓⲁ	Hebrew
+ⲅⲁⲣ	Greek
+ⲅⲉϩⲉⲛⲛⲁ	Hebrew
+ⲅⲉⲛⲉⲁ	Greek
+ⲅⲉⲛⲛⲁⲓⲟⲥ	Greek
+ⲅⲉⲛⲛⲏⲥⲁⲣⲉⲧ	Hebrew
+ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	Greek
+ⲅⲛⲱⲙⲏ	Greek
+ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ	Greek
+ⲅⲣⲁⲫⲏ	Greek
+ⲇⲁⲇ	Hebrew
+ⲇⲁⲓⲙⲟⲛⲓⲟⲛ	Greek
+ⲇⲁⲓⲙⲱⲛⲓⲟⲛ	Greek
+ⲇⲁⲗⲙⲁⲛⲟⲩⲑⲁ
+ⲇⲁⲛⲓⲏⲗ	Hebrew
+ⲇⲁⲩⲉⲓⲇ	Hebrew
+ⲇⲉⲕⲁⲡⲟⲗⲓⲥ	Greek
+ⲇⲉⲛⲁⲣⲓⲟⲛ	Latin
+ⲇⲉ	Greek
+ⲇⲏⲙⲟⲥⲓⲟⲛ	Greek
+ⲇⲏ	Greek
+ⲇⲓⲁⲃⲟⲗⲟⲥ	Greek
+ⲇⲓⲁⲕⲟⲛⲉⲓ	Greek
+ⲇⲓⲁⲕⲟⲛⲓⲁ	Greek
+ⲇⲓⲁⲕⲟⲛⲓ	Greek
+ⲇⲓⲁⲕⲟⲛⲟⲥ	Greek
+ⲇⲓⲁⲕⲟⲛⲟⲩ	Greek
+ⲇⲓⲁⲕⲟⲛ	Greek
+ⲇⲓⲁⲧⲁⲅⲙⲁ	Greek
+ⲇⲓⲇⲟⲩ	Greek
+ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ	Greek
+ⲇⲓⲕⲁⲓⲟⲥ	Greek
+ⲇⲓⲕⲁⲓⲟ*	Greek
+ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ	Greek
+ⲇⲓⲛⲟⲛ	Greek
+ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	Greek
+ⲇⲓⲟⲕⲗⲏⲇⲓⲁⲛⲟⲥ	Greek
+ⲇⲓⲟⲕⲗⲏ	Greek
+ⲇⲓⲡⲛⲟⲛ	Greek
+ⲇⲓⲱⲅⲙⲟⲥ	Greek
+ⲇⲓⲱⲕⲉⲓ	Greek
+ⲇⲟⲩⲙⲁⲓⲁ	Hebrew
+ⲇⲟⲩⲝ	Latin
+ⲇⲩⲛⲁⲣⲓⲟⲛ	Greek
+ⲇⲩⲛⲁⲣⲓⲟⲛ	Latin
+ⲇⲩⲛⲁⲧⲟⲥ	Greek
+ⲇⲩⲣⲁⲛⲛⲟⲥ	Greek
+ⲇⲱⲣⲟⲛ	Greek
+ⲉⲅⲕⲣⲁⲧⲉⲩⲉ	Greek
+ⲉⲅⲱ	Greek
+ⲉⲓⲇⲟⲥ	Greek
+ⲉⲓⲇⲱⲗⲟⲛ	Greek
+ⲉⲓⲙⲏⲧⲓ	Greek
+ⲉⲓⲣⲏⲛⲏ	Greek
+ⲉⲓⲧⲉ	Greek
+ⲉⲕⲕⲗⲉⲥⲓⲁⲥ	Greek
+ⲉⲕⲕⲗⲏⲥⲓⲁ	Greek
+ⲉⲗⲁⲭⲓⲥⲧⲟⲛ	Greek
+ⲉⲗⲉⲩⲑⲉⲣⲟⲥ	Greek
+ⲉⲛⲇⲁⲓⲙⲱⲛⲓⲟⲛ	Greek
+ⲉⲛⲉⲣⲅⲉⲓ	Greek
+ⲉⲛⲛⲟⲙⲟⲥ	Greek
+ⲉⲛⲧⲟⲗⲏ	Greek
+ⲉⲛⲱⲭⲗⲉⲓ	Greek
+ⲉⲛⲱⲭ	Hebrew
+ⲉⲝⲁⲡⲁⲧⲁ	Greek
+ⲉⲝⲉⲇⲣⲁ	Greek
+ⲉⲝⲉⲥⲧⲓ	Greek
+ⲉⲝⲟⲙⲟⲗⲟⲅⲉⲓ	Greek
+ⲉⲝⲟⲩⲥⲓⲁ	Greek
+ⲉⲝ*	Greek
+ⲉⲡⲁⲣⲭⲟⲥ	Greek
+ⲉⲡⲉⲓⲇⲏ	Greek
+ⲉⲡⲉⲓ	Greek
+ⲉⲡⲓⲑⲩⲙⲉⲓ	Greek
+ⲉⲡⲓⲑⲩⲙⲓⲁ	Greek
+ⲉⲡⲓⲕⲁⲗⲉⲓ	Greek
+ⲉⲡⲓⲥⲧⲏⲙⲏ	Greek
+ⲉⲡⲓⲥⲧⲟⲗⲏ	Greek
+ⲉⲡⲓⲧⲓⲙⲁ	Greek
+ⲉⲡⲓⲫⲁⲛⲓⲟⲥ	Greek
+ⲉⲣⲉⲙⲓⲁ	Greek
+ⲉⲣⲉⲙⲟⲩ	Greek
+ⲉⲣⲏⲙⲓⲁ	Greek
+ⲉⲣⲏⲙⲟⲥ	Greek
+ⲉⲥⲑⲁⲛⲉ	Greek
+ⲉⲧⲓ	Greek
+ⲉⲩϩⲁ	Hebrew
+ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ	Greek
+ⲉⲩⲁⲛⲅⲅⲉⲗ*	Greek
+ⲉⲩⲅⲉⲛⲏⲥ	Greek
+ⲉⲩⲝⲁⲥⲑⲉ	Greek
+ⲉⲩⲧⲩⲭⲓⲁⲛⲟⲥ		Greek
+ⲉⲩⲧⲩⲭⲓⲁⲛⲟⲥ	Greek
+ⲉⲩⲫⲣⲁⲛⲉ	Greek
+ⲉⲫⲣⲉⲙ	Hebrew
+ⲉⲭⲑⲣⲟⲥ	Greek
+ⲍⲁⲭⲁⲣⲓⲁⲥ	Hebrew
+ⲍⲉⲃⲉⲇⲁⲓⲟⲥ	Hebrew
+ⲍⲉⲗⲫⲁ	Hebrew
+ⲏⲇⲏ	Greek
+ⲏⲥⲁⲓⲁⲥ	Hebrew
+ⲏⲥⲁⲩ	Hebrew
+ⲏ	Greek
+ⲑⲁⲇⲇⲁⲓⲟⲥ	Aramaic
+ⲑⲁⲗⲁⲥⲥⲁ	Greek
+ⲑⲁⲗⲗⲁⲥⲁ	Greek
+ⲑⲉⲟⲇⲱⲣⲟⲥ	Greek
+ⲑⲉⲣⲁⲡⲟⲩ	Greek
+ⲑⲉⲱⲣⲉⲓ	Greek
+ⲑⲏⲃⲁⲉⲓⲥ	Greek
+ⲑⲏⲣⲓⲟⲛ	Greek
+ⲑⲗⲓⲃⲉ	Greek
+ⲑⲗⲓⲯⲓⲥ	Greek
+ⲑⲣⲟⲛⲟⲥ	Greek
+ⲑⲩⲥⲓⲁⲍⲉ	Greek
+ⲑⲩⲥⲓⲁ*	Greek
+ⲑⲱⲙⲁⲥ	Aramaic
+ⲓⲁⲕⲱⲃ*	Hebrew
+ⲓⲉⲥⲥⲁⲓ	Hebrew
+ⲓⲏⲥⲟⲩⲥ	Hebrew
+ⲓⲟⲣⲇⲁⲛⲏⲥ	Hebrew
+ⲓⲟⲩⲇⲁⲓⲁ	Hebrew
+ⲓⲟⲩⲇⲁⲥ	Hebrew
+ⲓⲟⲩⲇⲁ*	Hebrew
+ⲓⲥⲁⲁⲕ	Hebrew
+ⲓⲥⲕⲁⲣⲓⲱⲧⲏⲥ	Hebrew
+ⲓⲥⲙⲁⲏⲗ	Hebrew
+ⲓⲥⲣⲁⲏⲗ	Hebrew
+ⲓⲱϩⲁⲛⲛⲏⲥ	Hebrew
+ⲓⲱⲁⲛⲛⲟⲩ	Hebrew
+ⲓⲱⲃ	Hebrew
+ⲓⲱⲥⲏⲫ	Hebrew
+ⲕⲁⲕⲱⲥ	Greek
+ⲕⲁⲗⲟⲥ	Greek
+ⲕⲁⲗⲱⲥ	Greek
+ⲕⲁⲛⲁⲛⲁⲓⲟⲥ	Aramaic
+ⲕⲁⲛ	Greek
+ⲕⲁⲡⲛⲟⲥ	Greek
+ⲕⲁⲣⲡⲟⲥ	Greek
+ⲕⲁⲧⲁⲇⲓⲕⲓⲥⲉ	Greek
+ⲕⲁⲧⲁⲕⲣⲓⲛⲉ	Greek
+ⲕⲁⲧⲁⲗⲁⲗⲓⲁ	Greek
+ⲕⲁⲧⲁⲗⲩ	Greek
+ⲕⲁⲧⲁⲛⲉ	Greek
+ⲕⲁⲧⲁⲝⲓⲟⲩ	Greek
+ⲕⲁⲧⲁⲡⲉⲓ	Greek
+ⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ	Greek
+ⲕⲁⲧⲁⲡⲟⲛϯⲍⲉ	Greek
+ⲕⲁⲧⲁⲣⲅⲉⲓ	Greek
+ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ	Greek
+ⲕⲁⲧⲁ	Greek
+ⲕⲁⲧⲉⲭⲉ	Greek
+ⲕⲁⲩⲙⲁ	Greek
+ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ	Hebrew
+ⲕⲉⲗⲉⲩⲉ	Greek
+ⲕⲉⲗⲉⲩⲥⲓⲥ	Greek
+ⲕⲉⲛⲇⲩⲛⲁⲣⲓⲟⲛ Greek
+ⲕⲉⲥⲁⲣⲓⲁ	Latin
+ⲕⲉⲫⲁⲗⲏ	Greek
+ⲕⲉⲫⲁⲗⲟⲥ	Greek
+ⲕⲏⲣⲩⲥⲥⲉ	Greek
+ⲕⲏⲫⲁ	Greek
+ⲕⲗⲁⲇⲟⲥ	Greek
+ⲕⲗⲁⲩⲣⲁ	Greek
+ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	Greek
+ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	Greek
+ⲕⲟⲓⲛⲱⲛⲓⲁ	Greek
+ⲕⲟⲓⲛⲱⲛⲟⲥ	Greek
+ⲕⲟⲓⲧⲱⲛ	Greek
+ⲕⲟⲗⲁⲍⲉ	Greek
+ⲕⲟⲗⲗⲁⲣⲓⲟⲛ	Greek
+ⲕⲟⲗⲗⲏⲅⲓⲟⲛ	Latin
+ⲕⲟⲗⲗⲩϭⲉ	Latin
+ⲕⲟⲗⲗⲩⲕⲓⲟⲛ	Latin
+ⲕⲟⲙⲉⲥ	Greek
+ⲕⲟⲙⲉⲥ	Latin
+ⲕⲟⲣⲃⲁⲛ	Hebrew
+ⲕⲟⲣⲓⲛⲑⲟⲥ	Greek
+ⲕⲟⲥⲙⲟⲥ	Greek
+ⲕⲟⲩⲙ	Aramaic
+ⲕⲣⲁⲧⲟⲥ	Greek
+ⲕⲣⲓⲛⲉ	Greek
+ⲕⲣⲓⲥⲡⲟⲥ	Greek
+ⲕⲣⲟⲛⲟⲥ	Greek
+ⲕⲩⲣⲓⲝ		Greek
+ⲕⲱⲗⲩⲉ	Greek
+ⲕⲱⲗⲩ	Greek
+ⲕⲱⲙⲉⲥ	Latin
+ⲕⲱⲙⲏ	Greek
+ⲕⲱⲙⲓⲧⲁⲧⲱⲛ	Greek
+ⲕⲱⲛⲓⲁ	Greek
+ⲗⲁⲃⲁⲛ	Hebrew
+ⲗⲁⲙⲡⲁⲥ	Greek
+ⲗⲁⲟⲥ	Greek
+ⲗⲉⲅⲉⲱⲛ	Greek
+ⲗⲏⲥⲧⲏⲥ	Greek
+ⲗⲓⲁ	Hebrew
+ⲗⲓⲃⲁⲛⲟⲥ	Greek
+ⲗⲓⲃⲉⲗⲗⲟⲥ	Greek
+ⲗⲓⲧⲟⲩⲣⲅⲓⲁ	Greek
+ⲗⲟⲅⲓⲥⲙⲟⲥ	Greek
+ⲗⲟⲓⲡⲟⲛ	Greek
+ⲗⲩⲡⲉⲓ	Greek
+ⲗⲩⲡⲏ	Greek
+ⲗⲩⲥⲧⲏⲥ	Greek
+ⲗⲩⲭⲛⲓⲁ	Greek
+ⲙⲁⲅⲟⲥ	Greek
+ⲙⲁⲑⲁⲓⲟⲥ	Hebrew
+ⲙⲁⲑⲏⲧⲏⲥ	Greek
+ⲙⲁⲕⲁⲣⲓⲁ	Greek
+ⲙⲁⲕⲁⲣⲓⲍⲉ	Greek
+ⲙⲁⲕⲁⲣⲓⲟⲥ	Greek
+ⲙⲁⲕⲉⲗⲗⲟⲥ	Greek
+ⲙⲁⲗⲓⲥⲧⲁ	Greek
+ⲙⲁⲗⲗⲟⲛ	Greek
+ⲙⲁⲙⲟⲛⲁⲥ	Hebrew
+ⲙⲁⲛⲓⲁⲕⲏⲥ	Greek
+ⲙⲁⲛⲟⲥ	Greek
+ⲙⲁⲣⲑⲁ	Aramaic
+ⲙⲁⲣⲓⲁ	Hebrew
+ⲙⲁⲣⲧⲩⲣⲓⲁ	Greek
+ⲙⲁⲣⲧⲩⲣⲟⲥ	Greek
+ⲙⲁⲥⲧⲓⲅⲝ	Greek
+ⲙⲁⲥⲧⲓⲅⲟⲩ	Greek
+ⲙⲉⲅⲓⲥⲧⲁⲛⲟⲥ	Greek
+ⲙⲉⲗⲉⲓ		Greek
+ⲙⲉⲗⲉⲧⲁ	Greek
+ⲙⲉⲗⲟⲥ	Greek
+ⲙⲉⲛⲓⲟⲥ	Greek
+ⲙⲉⲛ	Greek
+ⲙⲉⲣⲟⲥ	Greek
+ⲙⲉⲥⲟⲩⲁⲫⲓ	Greek
+ⲙⲉⲧⲁⲛⲟⲉⲓ	Greek
+ⲙⲉⲧⲁⲛⲟⲓⲁ	Greek
+ⲙⲉⲧⲁⲛⲟⲓ	Greek
+ⲙⲉⲧⲉⲭⲉ	Greek
+ⲙⲉⲭⲣⲓ	Greek
+ⲙⲏⲡⲟⲧⲉ	Greek
+ⲙⲏⲡⲱⲥ	Greek
+ⲙⲏⲥⲧⲏⲣⲓⲟⲛ	Greek
+ⲙⲏⲧⲓ	Greek
+ⲙⲏ	Greek
+ⲙⲓⲭⲁⲏⲗ	Hebrew
+ⲙⲛⲙⲓⲍⲁⲏⲗ	Hebrew
+ⲙⲛⲧϩⲁⲡⲗⲟⲩⲥ	Greek
+ⲙⲛⲧⲁⲅⲁⲑⲟⲥ	Greek
+ⲙⲛⲧⲣⲉϥϩⲉⲧⲃⲯⲩⲭⲏ	Greek
+ⲙⲛⲧⲧⲉⲗⲓⲟⲥ	Greek
+ⲙⲟⲛⲁⲥ	Greek
+ⲙⲟⲛⲁⲭⲟⲥ	Greek
+ⲙⲟⲛⲟⲃⲟⲗⲓⲥ	Greek
+ⲙⲟⲛⲟⲅⲉⲛⲏⲥ	Greek
+ⲙⲟⲛⲟⲛ	Greek
+ⲙⲩⲥⲧⲏⲣⲓⲟⲛ	Greek
+ⲙⲱⲛⲟⲛ	Greek
+ⲙⲱⲩⲥⲏⲥ	Hebrew
+ⲛϭⲓⲡⲕⲉⲥⲧⲱⲛⲁⲣⲓⲟⲥ	
+ⲛⲁⲃⲟⲩⲭⲟⲇⲟⲛⲟⲥⲟⲣ	Akkadian
+ⲛⲁⲍⲁⲣⲁⲓⲟⲥ	Greek
+ⲛⲁⲍⲁⲣⲉⲑ	Hebrew
+ⲛⲁⲍⲱⲣⲁⲓⲟⲥ	Hebrew
+ⲛⲇⲉ	Greek
+ⲛⲏⲥⲧⲉⲓⲁ	Greek
+ⲛⲏⲥⲧⲉⲩⲉ	Greek
+ⲛⲏⲥⲧⲓⲁ	Greek
+ⲛⲑⲩⲃⲁⲉⲓⲥ	
+ⲛⲟⲉⲓ	Greek
+ⲛⲟⲙⲟⲥ	Greek
+ⲛⲟⲩⲙⲉⲣⲁⲣⲓⲟⲥ	Greek
+ⲛⲩⲕⲧⲉⲣⲓⲥ	Greek
+ⲝⲉⲥⲧⲏⲥ	Greek
+ⲝⲟⲩⲣ	Greek
+ⲟⲓⲕⲟⲛⲟⲙⲓⲁ	Greek
+ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	Greek
+ⲟⲛⲟⲙⲁⲍⲉ	Greek
+ⲟⲣⲅⲏ	Greek
+ⲟⲣⲇⲓⲛⲟⲛ	Greek
+ⲟⲣⲫⲁⲛⲟⲥ	Greek
+ⲟⲩⲇⲉ	Greek
+ⲟⲩⲕ	Greek
+ⲟⲩⲣⲁⲛⲓⲟⲛ	Greek
+ⲟⲩⲧⲉ	Greek
+ⲟⲯⲱⲛⲓⲟⲛ	Greek
+ⲡⲁⲑⲟⲥ	Greek
+ⲡⲁⲓⲇⲁⲓⲥ	Greek
+ⲡⲁⲓⲇⲉⲥ	Greek
+ⲡⲁⲗⲓⲛ	Greek
+ⲡⲁⲗⲗⲁϯⲟⲛ	Greek
+ⲡⲁⲗⲗⲁⲧⲓⲟⲛ	Greek
+ⲡⲁⲛϩⲟⲡⲗⲓⲁ	Greek
+ⲡⲁⲛⲟⲩⲣⲅⲓⲁ	Greek
+ⲡⲁⲛⲧⲱⲥ	Greek
+ⲡⲁⲣϩⲏⲥⲓⲁ	Greek
+ⲡⲁⲣϩⲓⲥⲧⲁ	Greek
+ⲡⲁⲣⲁⲃⲁⲥⲓⲥ	Greek
+ⲡⲁⲣⲁⲃⲁ	Greek
+ⲡⲁⲣⲁⲃⲟⲗⲏ	Greek
+ⲡⲁⲣⲁⲅⲉ	Greek
+ⲡⲁⲣⲁⲇⲉⲓⲥⲟⲥ	Greek
+ⲡⲁⲣⲁⲇⲓⲇⲟⲩ	Greek
+ⲡⲁⲣⲁⲇⲓⲥⲟⲥ	Greek
+ⲡⲁⲣⲁⲕⲁⲗⲉⲓ	Greek
+ⲡⲁⲣⲁⲕⲁⲗⲉ	Greek
+ⲡⲁⲣⲁⲧⲏⲣⲉⲓ	Greek
+ⲡⲁⲣⲁ*	Greek
+ⲡⲁⲣⲑⲉⲛⲟⲥ	Greek
+ⲡⲁⲣⲣⲏⲥⲓⲁ	Greek
+ⲡⲁⲧⲁⲥⲥⲉ	Greek
+ⲡⲁⲩⲗⲟⲥ	Greek
+ⲡⲉⲓⲑⲉ	Greek
+ⲡⲉⲓⲣⲁⲍⲉ	Greek
+ⲡⲉⲓⲣⲁⲥⲙⲟⲥ	Greek
+ⲡⲉⲡⲣⲁⲓⲧⲱⲣⲓⲟⲥ	
+ⲡⲉⲣⲓⲁⲕⲉ	Greek
+ⲡⲉⲧⲣⲁ	Greek
+ⲡⲉⲧⲣⲟⲥ	Greek
+ⲡⲏⲅⲏ	Greek
+ⲡⲏⲣⲁ	Greek
+ⲡⲓⲗⲁⲧⲟⲥ	Greek
+ⲡⲓⲛⲁⲝ	Greek
+ⲡⲓⲥⲧⲉⲩⲉ	Greek
+ⲡⲓⲥⲧⲓⲥ	Greek
+ⲡⲓⲥⲧⲟⲥ	Greek
+ⲡⲗⲁⲛⲏ	Greek
+ⲡⲗⲁⲛⲟⲥ	Greek
+ⲡⲗⲁⲝ	Greek
+ⲡⲗⲏⲅⲏ	Greek
+ⲡⲗⲏⲛ	Greek
+ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲏ	Greek
+ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ	Greek
+ⲡⲛⲉⲩⲙⲁ	Greek
+ⲡⲟⲗⲉⲙⲟⲥ	Greek
+ⲡⲟⲗⲓⲥ	Greek
+ⲡⲟⲛⲏⲣⲓⲁ	Greek
+ⲡⲟⲛⲏⲣⲟⲛ	Greek
+ⲡⲟⲛⲏⲣⲟⲥ	Greek
+ⲡⲟⲣⲛⲉⲓⲁ	Greek
+ⲡⲟⲣⲛⲉⲩⲉ	Greek
+ⲡⲟⲥⲱ	Greek
+ⲡⲣⲁⲓⲡⲱⲥⲓⲧⲱⲥ	Greek
+ⲡⲣⲁⲓⲧⲱⲣⲓⲟⲛ	Greek
+ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	Greek
+ⲡⲣⲟⲃⲏⲙⲁⲧⲟⲥ	Greek
+ⲡⲣⲟⲇⲣⲟⲙⲟⲩⲥ	Greek
+ⲡⲣⲟⲑⲉⲥⲓⲥ	Greek
+ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲉⲓ	Greek
+ⲡⲣⲟⲥⲕⲁⲣⲧⲉⲣⲓⲁ	Greek
+ⲡⲣⲟⲥⲕⲩⲛⲉⲓ	Greek
+ⲡⲣⲟⲥⲧⲁⲅⲙⲁ	Greek
+ⲡⲣⲟⲥ	Greek
+ⲡⲣⲟⲫⲏⲧⲉⲩⲉ	Greek
+ⲡⲣⲟⲫⲏⲧⲏⲥ	Greek
+ⲡⲩⲕⲧⲉⲩⲉ	Greek
+ⲡⲩⲣⲅⲟⲥ	Greek
+ⲡⲱⲣⲟⲥ	Greek
+ⲣⲭⲣⲉⲓⲁ	Greek
+ⲥⲁⲃⲁⲱⲑ	Hebrew
+ⲥⲁⲃⲃⲁⲧⲟⲛ	Hebrew
+ⲥⲁⲛⲇⲁⲗⲓⲟⲛ	Greek
+ⲥⲁⲣⲕⲓⲕⲟⲛ	Greek
+ⲥⲁⲣⲝ	Greek
+ⲥⲁⲣⲣⲁ	Hebrew
+ⲥⲁⲧⲁⲛⲁⲥ	Hebrew
+ⲥⲉⲣⲁⲫⲉⲓⲛ	Hebrew
+ⲥⲓⲇⲱⲛ	Greek
+ⲥⲓⲙⲱⲛ	Hebrew
+ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	Greek
+ⲥⲕⲁⲛⲇⲁⲗⲟⲛ	Greek
+ⲥⲕⲁⲫⲟⲥ	Greek
+ⲥⲕⲉⲡⲁⲥⲧⲏⲥ	Greek
+ⲥⲕⲉⲩⲏ	Greek
+ⲥⲕⲩⲗⲗⲉⲓ	Greek
+ⲥⲕⲩⲗⲙⲟⲥ	Greek
+ⲥⲟⲩⲇⲁⲣⲓⲟⲛ	Greek
+ⲥⲟⲫⲓⲁ	Greek
+ⲥⲟⲫⲟⲥ	Greek
+ⲥⲡⲉⲕⲟⲩⲗⲁⲧⲱⲣ	Greek
+ⲥⲡⲉⲣⲙⲁ	Greek
+ⲥⲧⲁⲇⲓⲟⲛ	Greek
+ⲥⲧⲁⲩⲣⲟⲥ	Greek
+ⲥⲧⲁⲩⲣⲟⲩ	Greek
+ⲥⲧⲉⲣⲉⲱⲙⲁ	Greek
+ⲥⲧⲉⲫⲁⲛⲁ	Greek
+ⲥⲧⲉⲫⲁⲛⲟⲩ	Greek
+ⲥⲧⲟⲗⲏ	Greek
+ⲥⲧⲣⲁⲧⲉⲩⲙⲁ		Greek
+ⲥⲧⲣⲁⲧⲉⲩⲙⲁ	Greek
+ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	Greek
+ⲥⲧⲣⲁⲧⲏ	Greek
+ⲥⲧⲩⲗⲗⲟⲥ	Greek
+ⲥⲧⲱⲛⲁⲣⲓⲟⲥ	Greek
+ⲥⲩⲅⲅⲉⲛⲏⲥ	Greek
+ⲥⲩⲛⲁⲅⲱⲅⲏ	Greek
+ⲥⲩⲛⲁⲝⲓⲥ	Greek
+ⲥⲩⲛⲅⲉⲛⲏⲥ	Greek
+ⲥⲩⲛⲉⲩⲇⲟⲕⲉⲓ	Greek
+ⲥⲩⲛⲍⲏⲧⲏⲧⲏⲥ	Greek
+ⲥⲩⲛⲕⲗⲏⲧⲓⲕⲏ	Greek
+ⲥⲩⲣⲓⲁ	Greek
+ⲥⲫⲣⲁⲅⲓⲍⲉ	Greek
+ⲥⲫⲣⲁⲅⲓⲥ	Greek
+ⲥⲭⲏⲙⲁ	Greek
+ⲥⲱⲙⲁ	Greek
+ⲥⲱⲥⲑⲉⲛⲏⲥ	Greek
+ⲧⲁⲗⲁⲓⲡⲱⲣⲟⲥ	Greek
+ⲧⲁⲗⲉⲓⲑⲁ	Aramaic
+ⲧⲁⲝⲓⲥ	Greek
+ⲧⲁⲣⲁⲥⲥⲉ	Greek
+ⲧⲁⲫⲟⲥ	Greek
+ⲧⲁⲭⲏ	Greek
+ⲧⲉⲗⲓⲟⲥ	Greek
+ⲧⲉⲗⲱⲛⲏⲥ	Greek
+ⲧⲉⲗⲱⲛⲓⲟⲛ	Greek
+ⲧⲉⲭⲛⲉ	Greek
+ⲧⲏⲣⲉⲓ	Greek
+ⲧⲓⲙⲁⲓⲟⲥ	Greek
+ⲧⲓⲙⲱⲣⲓⲁ	Greek
+ⲧⲕⲩⲗⲓⲕⲓⲁ	Greek
+ⲧⲟⲗⲙⲁ	Greek
+ⲧⲟⲡⲟⲥ	Greek
+ⲧⲟⲧⲉ	Greek
+ⲧⲟⲩⲁⲅⲓⲟⲩ	Greek
+ⲧⲟⲩⲙⲁⲕⲁ	Greek
+ⲧⲣⲁⲡⲉⲍⲁ	Greek
+ⲧⲣⲟⲫⲏ	Greek
+ⲧⲩⲡⲟⲥ	Greek
+ⲧⲩⲣⲟⲥ	Greek
+ⲫⲁⲛⲟⲥ	Greek
+ⲫⲁⲛⲧⲁⲥⲙⲁ	Greek
+ⲫⲁⲣⲁⲱ	Egyptian
+ⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ	Greek
+ⲫⲑⲟⲛⲉⲓ	Greek
+ⲫⲓⲗⲓⲡⲡⲟⲥ	Greek
+ⲫⲓⲙⲓⲛⲁⲣⲓⲟⲛ	Greek
+ⲫⲟⲓⲛⲓⲕⲏ	Greek
+ⲫⲟⲣⲉⲓ	Greek
+ⲭⲁⲗⲁ	Greek
+ⲭⲁⲗⲕⲓⲛ	Greek
+ⲭⲁⲙⲱⲥ	Greek
+ⲭⲁⲣⲓⲍⲉ	Greek
+ⲭⲁⲣⲓⲥⲙⲁ	Greek
+ⲭⲁⲣⲓⲥ	Greek
+ⲭⲁⲣⲧⲏⲥ	Greek
+ⲭⲏⲣⲁ	Greek
+ⲭⲓⲗⲓⲁⲣⲭⲟⲥ	Greek
+ⲭⲟⲣⲧⲟⲥ	Greek
+ⲭⲣⲉⲓⲁ	Greek
+ⲭⲣⲏⲙⲁ	Greek
+ⲭⲣⲓⲁ	Greek
+ⲭⲣⲓⲥⲧⲟⲥ	Greek
+ⲭⲣⲱ	Greek
+ⲭⲱⲣⲁ	Greek
+ⲭⲱⲣⲓⲥ	Greek
+ⲯⲩⲭⲏ	Greek
+ⲱⲭⲗⲉⲓ	Greek
+ⲱ	Greek
+*ⲓⲍⲉⲓ	Greek
+*ⲓⲍⲉ	Greek
+*ⲓⲍⲓ	Greek
+*ⲝ	Greek
+*ⲟⲩⲥⲓⲁ	Greek
+*ⲥⲑⲁⲓ	Greek
+*ⲥⲓⲥ	Greek
