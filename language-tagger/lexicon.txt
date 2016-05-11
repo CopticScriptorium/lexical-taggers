@@ -15,7 +15,6 @@
 ϩⲁⲗⲓⲉⲩⲥ	Greek
 ϩⲁⲗⲩⲥⲓⲥ	Greek
 ϩⲁⲙⲁ	Greek
-ϩⲁⲙⲏⲛ	Greek
 ϩⲁⲙⲏⲛ	Hebrew
 ϩⲁⲡⲗⲟⲩⲛ	Greek
 ϩⲁⲡⲗⲟⲩⲥ	Greek
@@ -28,7 +27,6 @@
 ϩⲁⲣⲡⲁⲍⲉ	Greek
 ϩⲉⲃⲇⲟⲙⲁⲥ	Greek
 ϩⲉⲃⲣⲁⲓⲁ	Greek
-ϩⲉⲃⲣⲁⲓⲟⲥ	Greek
 ϩⲉⲃⲣⲁⲓⲟⲥ	Hebrew
 ϩⲉⲑⲛⲓⲕⲟⲥ	Greek
 ϩⲉⲑⲛⲟⲥ	Greek
@@ -127,7 +125,6 @@
 ϩⲟⲥⲓⲱⲧⲁⲧⲟⲥ	Greek
 ϩⲟⲥⲟⲛ	Greek
 ϩⲟⲧⲁⲛ	Greek
-ϩⲟⲧⲉ	Greek
 ϩⲟⲧⲓ	Greek
 ϩⲣⲁⲃⲃⲉⲓ	Hebrew
 ϩⲣⲁⲃⲃⲟⲩⲛⲉⲓ	Hebrew
@@ -962,7 +959,6 @@
 ⲉⲓⲣⲏⲛⲓⲕⲟⲥ	Greek
 ⲉⲓⲧⲁ	Greek
 ⲉⲓⲧⲉ	Greek
-ⲉⲓ	Greek
 ⲉⲕⲇⲓⲕⲏⲥⲓⲥ	Greek
 ⲉⲕⲕⲗⲉⲥⲓⲁⲥ	Greek
 ⲉⲕⲕⲗⲏⲥⲓⲁⲥⲧⲏⲥ	Greek
@@ -1417,7 +1413,6 @@
 ⲕⲉⲫⲁⲗⲏ	Greek
 ⲕⲉⲫⲁⲗⲓⲥ	Greek
 ⲕⲉⲫⲁⲗⲟⲥ	Greek
-ⲕⲉ	Greek
 ⲕⲏⲙⲏⲧⲉⲣⲓⲟⲛ	Greek
 ⲕⲏⲛⲥⲟⲥ	Greek
 ⲕⲏⲛⲱⲧⲏⲥ	Greek
@@ -1857,7 +1852,6 @@
 ⲟⲣⲫⲁⲛⲟⲥ	Greek
 ⲟⲣⲭⲉⲓ	Greek
 ⲟⲧⲓ	Greek
-ⲟⲩⲁ	Greek
 ⲟⲩⲇⲉ	Greek
 ⲟⲩⲉⲓⲉⲛⲓⲛ	Greek
 ⲟⲩⲏⲗⲟⲛ	Greek
@@ -1865,14 +1859,12 @@
 ⲟⲩⲕⲟⲩⲛ	Greek
 ⲟⲩⲕ	Greek
 ⲟⲩⲗⲏ	Greek
-ⲟⲩⲛ	Greek
 ⲟⲩⲣⲁⲛⲓⲟⲛ	Greek
 ⲟⲩⲥⲓⲁⲣⲭⲏⲥ	Greek
 ⲟⲩⲥⲓⲁ	Greek
 ⲟⲩⲧⲉ	Greek
 ⲟⲩⲭⲓ	Greek
 ⲟⲩⲭ	Greek
-ⲟⲩ	Greek
 ⲟⲫⲉⲗⲉⲓ	Greek
 ⲟⲭⲉⲙⲁ	Greek
 ⲟⲭⲗⲏⲥⲓⲥ	Greek
