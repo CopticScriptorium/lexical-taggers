@@ -16,6 +16,7 @@ Options and arguments:
 
 example: _enrich.pl -l language-tagger/lexicon.txt my_file.txt
 
+The language tagger now includes lexical entries provided by the [Database and Dictionary of Greek Loanwords in Coptic (DDGLC)](http://research.uni-leipzig.de/ddglc).  We thank the DDGLC and its director, Dr. Tonio Sebastian Richter, for this collaboration.
 
 Perl script Copyright 2013-16 Amir Zeldes, Caroline T. Schroeder.  The perl program is free software. You may copy or redistribute the script under the same terms as Perl itself.
 
