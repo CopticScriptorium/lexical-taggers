@@ -1,7 +1,7 @@
 lexical taggers for Sahidic Coptic
 ===========================================================
 
-Includes lemmatizer and tagger for language of origin.
+Includes tagger for language of origin. (Lemmatizer now integrated into the part-of-speech tagger at https://github.com/CopticScriptorium/tagger-part-of-speech)
 
 _enrich.pl script to be used with lexicon file in each subdirectory (e.g., lexicon.txt in the languagetagger subdirectory for the language-of-origin tagging) 
 
@@ -17,8 +17,6 @@ Options and arguments:
 example: _enrich.pl -l language-tagger/lexicon.txt my_file.txt
 
 
-Lemmatizer still under development, not ready for release.
+Perl script Copyright 2013-16 Amir Zeldes, Caroline T. Schroeder.  The perl program is free software. You may copy or redistribute the script under the same terms as Perl itself.
 
-Copyright 2013-15 Amir Zeldes, Caroline T. Schroeder.  The perl program is free software. You may copy or redistribute the script under the same terms as Perl itself.
-
-Additional material copyright 2013-15 Amir Zeldes, Caroline T. Schroeder, Elizabeth Davidson: this is free software distributed under the GNU General Public license v. 3. http://www.gnu.org/licenses/gpl.html. You are welcome to distribute it under the conditions outlined in the license.
+Additional material copyright 2013-16 Amir Zeldes, Caroline T. Schroeder, Elizabeth Davidson: this is free software distributed under the GNU General Public license v. 3. http://www.gnu.org/licenses/gpl.html. You are welcome to distribute it under the conditions outlined in the license.
